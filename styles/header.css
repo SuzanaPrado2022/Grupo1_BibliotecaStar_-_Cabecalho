@@ -95,10 +95,7 @@
         text-decoration: none;
         color: var(--preto);
     }
-    .container__imagem-transparente{
-        display: none;
-    }
-   
+      
     .opções__botão:checked~.lista-menu{
         display: block;
         width: auto;
