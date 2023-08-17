@@ -99,7 +99,7 @@
         display: none;
     }
     .cabeçalho__menu-hamburguer{
-        display: none;
+        display: block;
     }
     .opções__botão:checked~.lista-menu{
         display: block;
